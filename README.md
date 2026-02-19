@@ -10,7 +10,7 @@ This repository contains all the shell scripts I’ve created throughout my lear
 ### Day-16 : Shell Scripting Basics
 
 * Starting from shebang, variables,user input, ifelse and combinig all this into one script.
-* **Scripts** - [hello.sh](scripts/hello.sh) ,greet.sh, variables.sh, check_number.sh , file_check.sh,   server_check.sh.
+* **Scripts** - [hello.sh](day-16/scripts/hello.sh) ,greet.sh, variables.sh, check_number.sh , file_check.sh,   server_check.sh.
   
 ---
 
