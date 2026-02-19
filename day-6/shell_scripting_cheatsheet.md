@@ -1,4 +1,4 @@
-# Day 21 – Shell Scripting Cheat Sheet: Build Your Own Reference Guide
+# Day 6 – Shell Scripting Cheat Sheet: Build Your Own Reference Guide
 
 ## Quick Reference Table
 

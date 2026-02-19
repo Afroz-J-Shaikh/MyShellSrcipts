@@ -1,4 +1,4 @@
-# Day 19 – Shell Scripting Project: Log Rotation, Backup & Crontab
+# Day 4 – Shell Scripting Project: Log Rotation, Backup & Crontab
 
 ## Task 1: Log Rotation Script
 Create `log_rotate.sh` that:

@@ -1,4 +1,4 @@
-# Day 17 – Shell Scripting: Loops, Arguments & Error Handling
+# Day 2 – Shell Scripting: Loops, Arguments & Error Handling
 
 ## Task 1: For Loop
 1. Create `for_loop.sh` that:

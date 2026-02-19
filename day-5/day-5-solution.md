@@ -1,4 +1,4 @@
-# Day 20 – Bash Scripting Challenge: Log Analyzer and Report Generator
+# Day 5 – Bash Scripting Challenge: Log Analyzer and Report Generator
 
 ## Task 1: Input and Validation
 Your script should:

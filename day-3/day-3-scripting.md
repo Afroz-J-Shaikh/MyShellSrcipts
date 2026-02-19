@@ -1,4 +1,4 @@
-# Day 18 – Shell Scripting: Functions & Slightly Advanced Concepts
+# Day 3 – Shell Scripting: Functions & Slightly Advanced Concepts
 
 ## Task 1: Basic Functions
 1. Create `functions.sh` with:
