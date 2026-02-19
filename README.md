@@ -44,7 +44,7 @@ This repository contains all the shell scripts I’ve created throughout my lear
 ## Day 6 - Shell Scripting Cheat Sheet
 
 * A consolidated cheat sheet of everything learned so far.
-* **Docs** - [shell_scripting_cheatsheet.md](day-5/shell_scripting_cheatsheet.md)
+* **Docs** - [shell_scripting_cheatsheet.md](day-6/shell_scripting_cheatsheet.md)
 
 ---
 
